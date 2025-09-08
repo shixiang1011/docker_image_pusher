@@ -1,1 +1,2 @@
-judge0/judge0:1.13.0
+openjdk:11-jre-slim
+mysql:8.0
