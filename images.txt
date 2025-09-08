@@ -1,3 +1,1 @@
-openjdk:11-jre-slim
-mysql:8.0
-maven:3.8.6-eclipse-temurin-17
+eclipse-temurin:17-jre-alpine
