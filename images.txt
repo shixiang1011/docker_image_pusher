@@ -1,1 +1,1 @@
-minio/minio:latest
+mcr.microsoft.com/mssql/server:2012-latest
