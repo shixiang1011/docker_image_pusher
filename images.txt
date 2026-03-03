@@ -1,1 +1,1 @@
-mcr.microsoft.com/mssql/server:2019-latest
+coredns/coredns:1.7.0
