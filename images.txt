@@ -1,1 +1,1 @@
-jenkins/jenkins:latest
+jenkins/inbound-agent:latest
