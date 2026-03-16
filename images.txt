@@ -1,1 +1,1 @@
-jenkins/inbound-agent:dind
+golang:1.10.4-alpine
