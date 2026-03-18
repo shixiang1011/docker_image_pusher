@@ -1,1 +1,1 @@
-golang:1.10.4-alpine
+docker.io/istio/pilot:1.29.1
