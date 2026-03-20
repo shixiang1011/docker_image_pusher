@@ -1,8 +1,1 @@
-pinpointdocker/pinpoint-hbase:2.0.1
-pinpointdocker/pinpoint-mysql:2.0.1
-pinpointdocker/pinpoint-web:2.0.1
-pinpointdocker/pinpoint-collector:2.0.1
-pinpointdocker/pinpoint-quickstart
-pinpointdocker/pinpoint-agent:2.0.1
-zookeeper:3.4
-flink:1.3.1
+java:8-jdk-alpine
